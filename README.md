@@ -109,7 +109,7 @@ Each course includes **2 embedded YouTube videos** and a dynamically updating pr
 
 ## 🚀 Live Demo
 
-https://tanunotes.github.io/elearning_platform/
+https://ashunotes.github.io/elearning_platform/
 
 ## OUTPUT
 
